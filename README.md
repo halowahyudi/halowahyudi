@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://wahyudi.id/projects](https://wahyudi.id/projects)
+- 👨‍💻 All of my projects are available at [https://wahyudi.id/projects](https://wahyudi.id/tags/Project)
 
 - 📝 I regularly write articles on [https://blog.wahyudi.id](https://wahyudi.id/posts)
 
