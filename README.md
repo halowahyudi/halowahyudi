@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://wahyudi.id/projects](https://wahyudi.id/projects)
 
-- 📝 I regularly write articles on [https://blog.wahyudi.id](https://blog.wahyudi.id)
+- 📝 I regularly write articles on [https://blog.wahyudi.id](https://wahyudi.id/posts)
 
 - 📫 How to reach me **business@wahyudi.id**
 
