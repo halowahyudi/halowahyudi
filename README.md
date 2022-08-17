@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://wahyudi.id](https://wahyudi.id)
 
-- ⚡ Fun fact **I think I Cool**
+- ⚡ Fun fact **I think I'm Cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
