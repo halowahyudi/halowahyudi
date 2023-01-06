@@ -5,15 +5,12 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://wahyudi.id/](https://wahyudi.id/tags/Projects)
-
-- 📝 I regularly write articles on [https://wahyudi.id](https://wahyudi.id/posts)
+- 👨‍💻 My Personal Website [https://wahyudi.id/](https://wahyudi.id/tags/Projects)
 
 - 📫 How to reach me **business@wahyudi.id**
 
 - 📄 Know about my experiences [https://wahyudi.id](https://wahyudi.id)
 
-- ⚡ Fun fact **I think I'm Cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
