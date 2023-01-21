@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 My Personal Website [https://wahyudi.id/](https://wahyudi.id/tags/Projects)
+- 👨‍💻 My Personal Website [https://wahyudi.dev/](https://wahyudi.dev)
 
-- 📫 How to reach me **business@wahyudi.id**
+- 📫 How to reach me **business@wahyudi.dev**
 
-- 📄 Know about my experiences [https://wahyudi.id](https://wahyudi.id)
+- 📄 Know about my experiences [https://wahyudi.dev](https://wahyudi.dev)
 
 
 <h3 align="left">Connect with me:</h3>
